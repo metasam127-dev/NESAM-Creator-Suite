@@ -81,13 +81,9 @@ Stay focused on your content.
 
 If you enjoy the project, please star the repository and follow future updates.
 
-NESAM Creator Suite
-## 🚀 Get The Full Version
 
-The complete commercial version is available on Gumroad.
 
-👉 Purchase Here:
-https://TON-LIEN-GUMROAD
+
 
 Includes:
 
